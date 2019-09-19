@@ -16,15 +16,15 @@ echo "Jika Ingin Memasuki Script Ini Kamu Harus Enter!"
 read enter
 clear
 
-figlet "SELAMAT DATANG DI SCRIPT All Tools"
+figlet "SELAMAT DATANG DI SCRIPT NEW TOOLS"
 sleep 3
 clear
 
 echo -e  "✿───────────────────────────────────────✿"
-echo -e  "Tools    : Full Script $white         " |lolcat
+echo -e  "Tools    : 17 Tools Bermanfaat $white         " |lolcat
 echo -e  "Creadby  : ShcFaris & MrTakil$white   " |lolcat
 echo -e  "Contact  : mrtakilganteng72@yahoo.com $white " |lolcat
-echo -e "VersiTools : v1.0 $white " |lolcat
+echo -e "VersiTools : v2.0 $white " |lolcat
 echo -e "WhatsApp : 087826494206 $white " |lolcat
 echo -e "GitHub : https://github.com/mrtakil $white " |lolcat
 echo -e "Copyright 2019 Termux $white " |lolcat
@@ -104,6 +104,7 @@ pkg install php
 pkg install curl
 pkg install openssh
 git clone https://github.com/thelinuxchoice/locator && cd locator && bash locator.sh
+cd locator && bash locator.sh
 
 ;;
 
@@ -113,6 +114,7 @@ pkg install php
 pkg install curl
 pkg install openssh
 git clone https://github.com/thelinuxchoice/saycheese && cd saycheese && bash saycheese.sh
+cd saycheese && bash saycheese.sh
 
 ;;
 
@@ -122,6 +124,7 @@ pkg install python2
 pip2 install mechanize
 pip2 install requests
 git clone https://github.com/RaphSoft/lain-lain && cd lain-lain && python2 mbledos.py
+cd lain-lain && python2 mbledos.py
 
 ;;
 
@@ -131,6 +134,7 @@ pkg install python2
 pip2 install mechanize
 pip2 install requests
 git clone https://github.com/rezadkim/spammerZ && cd spammerZ && python2 spam.py
+cd spammerZ && python2 spam.py
 
 ;;
 
@@ -140,6 +144,7 @@ pkg install python2
 pip2 install mechanize
 pip2 install requests
 git clone https://github.com/R133F/Defacer && cd Defacer && python2 defacer.py
+cd Defacer && python2 defacer.py
 
 ;;
 
@@ -149,6 +154,7 @@ pkg install python2
 pip2 install mechanize
 pip2 install requests
 git clone https://github.com/TERMUXID3/brutal-sms && cd brutal-sms && python2 run.py
+cd brutal-sms && python2 run.py
 
 ;;
 
@@ -158,6 +164,7 @@ pkg install python2
 pip2 install mechanize
 pip2 install requests
 git clone https://github.com/pashayogi/SETAN && cd SETAN && python2 SETAN.py
+cd SETAN && python2 SETAN.py
 
 ;;
 
@@ -166,6 +173,7 @@ pkg install git
 pkg install php
 pkg install curl
 git clone https://github.com/Tuhinshubhra/RED_HAWK && cd RED_HAWK && php rhawk.php
+cd RED_HAWK && php rhawk.php
 
 ;;
 
@@ -173,6 +181,7 @@ git clone https://github.com/Tuhinshubhra/RED_HAWK && cd RED_HAWK && php rhawk.p
 pkg install git
 pkg install python && pkg install python2
 git clone https://github.com/kancotdiq/ipcs && cd ipcs && pip2 install requirements && python2 scan.py
+cd ipcs && python2 scan.py
 
 ;;
 
@@ -194,6 +203,7 @@ pkg install python2
 pip2 install mechanize
 pip2 install requests
 git clone https://github.com/nasirxo/flb2 && cd flb2 && python2 flb2.py
+cd flb2 && python2 flb2.py
 
 ;;
 
@@ -203,6 +213,7 @@ pkg install python2
 pip2 install mechanize
 pip2 install requests
 git clone https://github.com/FRI3ND8/EmailVuln && cd EmailVuln && python2 vuln.py
+cd EmailVuln && python2 vuln.py
 
 ;;
 
@@ -212,6 +223,7 @@ pkg install php
 pkg install curl
 pkg install openssh
 git clone https://github.com/thelinuxchoice/shellphish && cd shellphish && bash shellphish.sh
+cd shellphish && bash shellphish.sh
 
 ;;
 
@@ -220,6 +232,7 @@ pkg install curl
 pkg install php
 pkg install git
 git clone https://github.com/revan-ar/mail-spammer && cd mail-spammer && php mail.php
+cd mail-spammer && php mail.php
 
 ;;
 
@@ -247,6 +260,7 @@ python2 seeker.py
 pkg install git
 pkg install python2
 git clone https://github.com/xHax9x/fbi && cd fbi && python2 fbi.py
+cd fbi && python2 fbi.py
 
 ;;
 
